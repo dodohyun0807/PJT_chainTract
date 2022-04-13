@@ -1,0 +1,11 @@
+.image {
+  width: 100%;
+  position: relative;
+}
+
+  &__loading {
+    position: absolute;
+    z-index: 999;
+    top: 200px;
+    left: -95px;
+  }

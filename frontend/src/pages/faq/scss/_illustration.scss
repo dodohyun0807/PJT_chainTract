@@ -1,0 +1,36 @@
+.illustration {
+  width: 100%;
+  position: relative;
+
+  &__box {
+    position: absolute;
+    z-index: 999;
+    top: 200px;
+    left: -90px;
+  }
+
+  &__contract {
+    position: absolute;
+    top: 60px;
+    left: -77px;
+
+  }
+
+  &__woman-desktop {
+    position: absolute;
+    top: 60px;
+    left: -77px;
+
+  }
+
+  &__business_team {
+    position: absolute;
+    top: 60px;
+    left: -77px;
+
+  }
+
+  &__woman-mobile {
+    display: none;
+  }
+}

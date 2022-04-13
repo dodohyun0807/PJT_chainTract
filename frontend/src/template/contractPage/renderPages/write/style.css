@@ -1,0 +1,108 @@
+.theme-bg {
+  background: linear-gradient(-135deg, rgb(29, 233, 182) 0%, #1dc4e9 100%);
+}
+
+.theme-bg2 {
+  background: linear-gradient(-135deg, #899FD4 0%, #A389D4 100%);
+}
+.theme-bg3 {
+  background: linear-gradient(-135deg, rgb(69, 32, 242) 0%, rgb(194, 61, 220) 100%);
+}
+
+.f-12 {
+  font-size: 12px;
+}
+
+.text-white {
+  color: #fff !important;
+}
+
+.text-neon {
+  color:#9179bd
+}
+
+.covenantee-position {
+  position: relative;
+  top: -15px;
+  left: 40px;
+}
+
+.delete-position {
+  position: relative;
+  top: -40px;
+  left: 480px;
+}
+
+.file-position {
+  position: absolute;
+  top: 35px;
+  left: 40px;
+}
+
+.submit-position {
+  position: absolute;
+  top: 0px;
+  left: 470px;
+}
+
+.convenantee-color {
+  color:#000
+}
+
+.button-position {
+  position: absolute;
+  top: -40px;
+  left : 440px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.label {
+  padding: 4px 10px;
+  min-height: auto;
+  position: relative;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+.btn-round {
+  border-radius: 30px;
+}
+
+.shadow-2 {
+  -webkit-box-shadow: 0 10px 18px 0 rgba(62, 57, 107, 0.2);
+          box-shadow: 0 10px 18px 0 rgba(62, 57, 107, 0.2);
+}
+
+.text-position {
+
+  position: relative;
+  top:25px;
+}
+
+.relative {
+  position: relative;
+  left: 300px;
+}
+
+.component-position {
+  position: relative;
+  left: 40px;
+  top:30px;
+}
+
+.navbar {
+  position: fixed;
+  top:0;
+  width: 100%;
+  left:0;
+  right:0;
+}
+
+.color-test {
+  background: linear-gradient(to right, rgb(44, 20, 151) 0%, rgb(211, 66, 240) 100%);
+  -webkit-background-clip: text;
+  color: transparent;
+}

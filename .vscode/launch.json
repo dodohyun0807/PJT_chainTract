@@ -1,0 +1,15 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "Spring Boot-ChaintractApplication<chaintract>",
+			"request": "launch",
+			"cwd": "${workspaceFolder}",
+			"console": "internalConsole",
+			"mainClass": "com.ssafy.chaintract.ChaintractApplication",
+			"projectName": "chaintract",
+			"args": "",
+			"envFile": "${workspaceFolder}/.env"
+		}
+	]
+}
